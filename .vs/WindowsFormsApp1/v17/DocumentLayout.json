@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\BuiThanhDat_2280600563\\WindowsFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCDBFAE-78A9-471B-844D-94F902C851E1}|WindowsFormsApp1\\GUI.csproj|c:\\users\\admin\\desktop\\buithanhdat_2280600563\\windowsformsapp1\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCDBFAE-78A9-471B-844D-94F902C851E1}|WindowsFormsApp1\\GUI.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E85B789-CFAB-4803-9CD3-20F598C22762}|DAL\\DAL.csproj|C:\\Users\\Admin\\Desktop\\BuiThanhDat_2280600563\\WindowsFormsApp1\\dal\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E85B789-CFAB-4803-9CD3-20F598C22762}|DAL\\DAL.csproj|solutionrelative:dal\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E85B789-CFAB-4803-9CD3-20F598C22762}|DAL\\DAL.csproj|C:\\Users\\Admin\\Desktop\\BuiThanhDat_2280600563\\WindowsFormsApp1\\dal\\svdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E85B789-CFAB-4803-9CD3-20F598C22762}|DAL\\DAL.csproj|solutionrelative:dal\\svdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E85B789-CFAB-4803-9CD3-20F598C22762}|DAL\\DAL.csproj|C:\\Users\\Admin\\Desktop\\BuiThanhDat_2280600563\\WindowsFormsApp1\\dal\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E85B789-CFAB-4803-9CD3-20F598C22762}|DAL\\DAL.csproj|solutionrelative:dal\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCDBFAE-78A9-471B-844D-94F902C851E1}|WindowsFormsApp1\\GUI.csproj|C:\\Users\\Admin\\Desktop\\BuiThanhDat_2280600563\\WindowsFormsApp1\\windowsformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCDBFAE-78A9-471B-844D-94F902C851E1}|WindowsFormsApp1\\GUI.csproj|solutionrelative:windowsformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCDBFAE-78A9-471B-844D-94F902C851E1}|WindowsFormsApp1\\GUI.csproj|C:\\Users\\Admin\\Desktop\\BuiThanhDat_2280600563\\WindowsFormsApp1\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9CCDBFAE-78A9-471B-844D-94F902C851E1}|WindowsFormsApp1\\GUI.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCDBFAE-78A9-471B-844D-94F902C851E1}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\Admin\\Desktop\\BuiThanhDat_2280600563\\WindowsFormsApp1\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9CCDBFAE-78A9-471B-844D-94F902C851E1}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47072A49-76EC-491E-A94A-FE57664A2F6F}|BUS\\BUS.csproj|C:\\Users\\Admin\\Desktop\\BuiThanhDat_2280600563\\WindowsFormsApp1\\bus\\svbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47072A49-76EC-491E-A94A-FE57664A2F6F}|BUS\\BUS.csproj|solutionrelative:bus\\svbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BuiThanhDat_2280600563\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BuiThanhDat_2280600563\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAiwJEAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T02:52:18.428Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sinhvien.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BuiThanhDat_2280600563\\WindowsFormsApp1\\DAL\\Sinhvien.cs",
+              "RelativeDocumentMoniker": "DAL\\Sinhvien.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BuiThanhDat_2280600563\\WindowsFormsApp1\\DAL\\Sinhvien.cs",
+              "RelativeToolTip": "DAL\\Sinhvien.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T03:34:17.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BuiThanhDat_2280600563\\WindowsFormsApp1\\WindowsFormsApp1\\Program.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BuiThanhDat_2280600563\\WindowsFormsApp1\\WindowsFormsApp1\\Program.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T03:20:21.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BuiThanhDat_2280600563\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BuiThanhDat_2280600563\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T03:04:08.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SVBUS.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BuiThanhDat_2280600563\\WindowsFormsApp1\\BUS\\SVBUS.cs",
+              "RelativeDocumentMoniker": "BUS\\SVBUS.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BuiThanhDat_2280600563\\WindowsFormsApp1\\BUS\\SVBUS.cs",
+              "RelativeToolTip": "BUS\\SVBUS.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T02:56:22.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SVDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BuiThanhDat_2280600563\\WindowsFormsApp1\\DAL\\SVDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\SVDAL.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BuiThanhDat_2280600563\\WindowsFormsApp1\\DAL\\SVDAL.cs",
+              "RelativeToolTip": "DAL\\SVDAL.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAIwCsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T02:07:14.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BuiThanhDat_2280600563\\WindowsFormsApp1\\DAL\\StudentDBContext.cs",
+              "RelativeDocumentMoniker": "DAL\\StudentDBContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BuiThanhDat_2280600563\\WindowsFormsApp1\\DAL\\StudentDBContext.cs",
+              "RelativeToolTip": "DAL\\StudentDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T01:40:54.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BuiThanhDat_2280600563\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BuiThanhDat_2280600563\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T01:28:27.262Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
