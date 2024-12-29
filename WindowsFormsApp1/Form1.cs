@@ -69,7 +69,7 @@ namespace WindowsFormsApp1
                 var newStudent = new Sinhvien
                 {
                     MaSV = txtStudentID.Text,
-                    HotenSV = txtStudentID.Text,
+                    HotenSV = txtName.Text,
                     NgaySinh = dtpkDateofBirth.Value,
                     MaLop = cmbClass.SelectedValue.ToString(),
                 };
